@@ -1,0 +1,38 @@
+body {
+  background-color:darkcyan;
+  text-align: center;
+  font-family: cursive;
+  font-size: medium;
+}
+#demo{
+  text-align: center;
+}
+
+#table-container{
+  text-align: center;
+}
+
+h1, h2 {
+  text-decoration: underline;
+}
+
+button {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+#sources {
+  border-style: solid;
+  border-radius: 2px;
+  border-width: 2px;
+  margin-top: 10px;
+}
+
+footer {
+  text-align: center;
+  border-style: hidden;
+  border-radius: 5px;
+  border-color: white;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
